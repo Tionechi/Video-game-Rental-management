@@ -1,0 +1,27 @@
+ID,Platform,Genre,Title,Publisher,Purchase Date
+cod01,Xbox,Action,COD,Activision,01/09/2021
+cod02,Playstation,Action,COD,Activision,01/09/2021
+fifa01,Xbox,Sports,FIFA,EA Sports, 02/09/2022
+fifa02,PC,Sports,FIFA,EA Sports, 02/09/2022
+fifa03,Playstation,Sports,FIFA,EA Sports, 02/09/2022
+elden01,Playstation,RPG,Elden Ring,From Software,03/25/2019
+elden02,Xbox,RPG,Elden Ring,From Software,11/14/2018
+sekiro01,Playstation,Action,Sekiro shadows die twice,From Software,07/06/2020
+sekiro02,Xbox,Action,Sekiro shadows die twice,From Software,04/30/2017
+bloodb01,Playstation,Action,Bloodborne,From Software,09/22/2022
+bloodb02,Xbox,Action,Bloodborne,From Software,01/08/2018
+tlou01,Playstation,Adventure,The Last of Us,Naughty dog,06/11/2019
+tlou02,Xbox,Adventure,The Last of Us,Naughty dog,12/19/2021
+gow01,Playstation,Adventure,God of War,Sony,08/03/2023
+gow02,Xbox,Adventure,God of War,Sony,02/17/2020
+ds01,Playstation,RPG,Dark Souls,From Software,10/01/2017
+ds02,Xbox,RPG,Dark Souls,From Software,10/01/2020
+lol02,PC,MOBA,League of Legends,Riot,07/30/2021
+lol03,Xbox,MOBA,League of Legends,Riot,07/30/2021
+val01,PC,FPS,Valorant,Riot,11/09/2017
+val02,Playstation,FPS,Valorant,Riot,04/22/2022
+val03,Xbox,FPS,Valorant,Riot,08/15/2019
+sekiro03,Playstation,Action,Sekiro shadows die twice,From Software,12/05/2020
+sekiro04,Xbox,Action,Sekiro shadows die twice,From Software,06/01/2018
+bloodb03,Playstation,Action,Bloodborne,From Software,02/11/2021
+bloodb04,Xbox,Action,Bloodborne,From Software,10/24/2023

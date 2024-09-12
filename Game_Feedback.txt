@@ -1,0 +1,11 @@
+GameID,Rating,Comments
+cod01,5,Excellent game!
+fifa02,4,Good but could be better.
+ds01,3,Average experience.
+tlou01,2,Not very engaging.
+cod01,1,Highly enjoyable!
+lol01,2,Mentally did me in
+tlou02,3,Great stuff!
+val01,5,
+val01,2,good
+ds02,2,Really hard game
